@@ -3,6 +3,25 @@
 
 ***Conteúdo do Projeto:***
 
+Este projeto é uma aplicação desenvolvida em Dart e Flutter, que se conecta a uma RESTful API para fornecer uma experiência de usuário fluida e interativa.
+
+O objetivo é demostrar as habilidades adqueridas em desenvolvimento mobile e integração de APIs.
+
+## Tecnologia Utilizadas
+
+- **Dart**: Linguagem de programação utilizada para desenvolver a aplicação.
+- **Flutter**: Framework para construção de interfaces nativas para iOS e Android.
+- **RESTful API**: Integração com uma API para manipulação de dados.
+- **GitFlow**: Estratégia de branching para controle de versão e colaboração.
+
+### Instalação
+
+#### Pré-requisitos
+
+- [Flutter](https://) instalado na máquina
+- [Dart](https://) instalado.
+- [Git](https://) instalado.
+
 > [!IMPORTANT]\
 > **Boas práticas**:
 >
