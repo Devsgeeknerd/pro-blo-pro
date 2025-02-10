@@ -18,7 +18,7 @@ O objetivo é demostrar as habilidades adqueridas em desenvolvimento mobile e in
 
 #### Pré-requisitos
 
-- [Flutter](https://) instalado na máquina
+- [Flutter](https://) instalado na máquina.
 - [Dart](https://) instalado.
 - [Git](https://) instalado.
 
